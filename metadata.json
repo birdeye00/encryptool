@@ -1,0 +1,6 @@
+{
+  "name": "Encoding, Decoding & Hash Lab",
+  "description": "Comprehensive developer and security utility for reversible data encodings, JSON & JWT inspection, toy ciphers, and Web Crypto cryptographic hashing and checksum verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
